@@ -1,0 +1,12 @@
+#p1 {
+    text-align: center;
+    font-family: monospace;
+}
+#b1 {
+    position: absolute;
+    top: 50%;
+    text-align: center;
+}
+#buttondiv {
+    text-align: center;
+}
